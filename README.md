@@ -11,8 +11,8 @@ Important Notices And Announcements
 Screenshots
 -------------------------------------------------------------------------------------------------------------
 Login Form
-
 ![Finished Login](https://user-images.githubusercontent.com/83477843/146829356-6ccf8cc9-543b-4fa9-ba5e-457b3ccb0ae6.png)
+-------------------------------------------------------------------------------------------------------------
 
 Loading Form
 
